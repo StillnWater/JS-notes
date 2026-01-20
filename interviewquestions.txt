@@ -1,7 +1,7 @@
 1.difference btw var,let, and const
 2.explain different types of js operators
 3.difference btw == and ===
-4.what is hoisting and TDZ.
+4.what is hoisting and TDZ
 5.explain different array methods in Js
     -map vs filter vs reduce
     -find and filter
@@ -17,4 +17,5 @@
     -anonymous function
     -self invoking function (IIFE)
     
+
 
