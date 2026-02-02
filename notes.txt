@@ -6,7 +6,7 @@ Hoisting:
 
 
 #callstack- storage of line by line code
-#first declaration is done and then initialisation
+#first declaration is done and then initialization
 
 TDZ(temperal deadzone):
     -proper initializationis not done so it stays in TDZ.
@@ -79,6 +79,4 @@ let doubled=numbers.filter((ak)=>{
 reduce function:
     let numbers=[1,2,3,4,5]
     let sum=numbers.reduce((acc,current)
-
     =>console.log(current))
-
